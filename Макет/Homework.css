@@ -1,0 +1,23 @@
+body {
+background-color: white;
+}
+h1{
+ background-color: brown;
+ color: white;
+}
+p{
+    text-align: center;
+}
+.paragraph{
+background-color: black;
+color: white;
+text-align: center;
+}
+figure{
+  text-align: center;
+}
+ .block1 { 
+     text-align: center;
+ }
+ 
+ 
